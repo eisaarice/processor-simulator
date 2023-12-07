@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\jesus\source\repos\Simulation\Simulation\Main.cpp(262,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jesus\source\repos\Simulation\Simulation\Main.cpp(310,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Simulation.vcxproj -> C:\Users\jesus\source\repos\Simulation\x64\Debug\Simulation.exe
