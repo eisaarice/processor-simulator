@@ -1,4 +1,4 @@
-# Processor-Simulator
+# processor-simulator
 Two part C++ project where one program creates and organizes a file of 10000 random jobs and the second program uses that file as input to simulate how an input # of processors will handle those jobs (up to 8 processors recommended).
 
 
